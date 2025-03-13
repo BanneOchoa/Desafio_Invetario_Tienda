@@ -1,0 +1,51 @@
+C:\Users\vanne\Desktop\Midesafio\bin\Debug\Midesafio.exe.config
+C:\Users\vanne\Desktop\Midesafio\bin\Debug\Midesafio.exe
+C:\Users\vanne\Desktop\Midesafio\bin\Debug\Midesafio.pdb
+C:\Users\vanne\Desktop\Midesafio\obj\Debug\Midesafio.csproj.AssemblyReference.cache
+C:\Users\vanne\Desktop\Midesafio\obj\Debug\Midesafio.Form1.resources
+C:\Users\vanne\Desktop\Midesafio\obj\Debug\Midesafio.Properties.Resources.resources
+C:\Users\vanne\Desktop\Midesafio\obj\Debug\Midesafio.csproj.GenerateResource.cache
+C:\Users\vanne\Desktop\Midesafio\obj\Debug\Midesafio.csproj.CoreCompileInputs.cache
+C:\Users\vanne\Desktop\Midesafio\obj\Debug\Midesafio.exe
+C:\Users\vanne\Desktop\Midesafio\obj\Debug\Midesafio.pdb
+C:\Users\vanne\Desktop\Midesafio\bin\Debug\Logica.dll
+C:\Users\vanne\Desktop\Midesafio\bin\Debug\Logica.pdb
+C:\Users\vanne\Desktop\Midesafio\obj\Debug\Midesafio.csproj.Up2Date
+C:\Users\DELL 5480\OneDrive\Desktop\Nueva carpeta\Midesafio\obj\Debug\Midesafio.csproj.AssemblyReference.cache
+C:\Users\DELL 5480\OneDrive\Desktop\Nueva carpeta\Midesafio\obj\Debug\Midesafio.Form1.resources
+C:\Users\DELL 5480\OneDrive\Desktop\Nueva carpeta\Midesafio\obj\Debug\Midesafio.Properties.Resources.resources
+C:\Users\DELL 5480\OneDrive\Desktop\Nueva carpeta\Midesafio\obj\Debug\Midesafio.csproj.GenerateResource.cache
+C:\Users\DELL 5480\OneDrive\Desktop\Nueva carpeta\Midesafio\obj\Debug\Midesafio.csproj.CoreCompileInputs.cache
+C:\Users\vanne\Downloads\Midesafio\obj\Debug\Midesafio.csproj.AssemblyReference.cache
+C:\Users\vanne\Downloads\Midesafio\obj\Debug\Midesafio.Form1.resources
+C:\Users\vanne\Downloads\Midesafio\obj\Debug\Midesafio.Properties.Resources.resources
+C:\Users\vanne\Downloads\Midesafio\obj\Debug\Midesafio.csproj.GenerateResource.cache
+C:\Users\vanne\Downloads\Midesafio\obj\Debug\Midesafio.csproj.CoreCompileInputs.cache
+C:\Users\vanne\Downloads\Midesafio\bin\Debug\Midesafio.exe.config
+C:\Users\vanne\Downloads\Midesafio\bin\Debug\Midesafio.xml
+C:\Users\vanne\Downloads\Midesafio\bin\Debug\Midesafio.exe
+C:\Users\vanne\Downloads\Midesafio\bin\Debug\Midesafio.pdb
+C:\Users\vanne\Downloads\Midesafio\obj\Debug\Midesafio.exe
+C:\Users\vanne\Downloads\Midesafio\obj\Debug\Midesafio.pdb
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\bin\Debug\Midesafio.exe.config
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\bin\Debug\Midesafio.xml
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\bin\Debug\Midesafio.exe
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\bin\Debug\Midesafio.pdb
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\obj\Debug\Midesafio.csproj.AssemblyReference.cache
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\obj\Debug\Midesafio.Form1.resources
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\obj\Debug\Midesafio.Properties.Resources.resources
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\obj\Debug\Midesafio.csproj.GenerateResource.cache
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\obj\Debug\Midesafio.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\obj\Debug\Midesafio.exe
+C:\Users\DELL 5480\OneDrive\Desktop\Midesafio\obj\Debug\Midesafio.pdb
+C:\Users\vanne\Downloads\Midesafiofinal\obj\Debug\Midesafio.csproj.AssemblyReference.cache
+C:\Users\vanne\Downloads\Midesafiofinal\obj\Debug\Midesafio.Form1.resources
+C:\Users\vanne\Downloads\Midesafiofinal\obj\Debug\Midesafio.Properties.Resources.resources
+C:\Users\vanne\Downloads\Midesafiofinal\obj\Debug\Midesafio.csproj.GenerateResource.cache
+C:\Users\vanne\Downloads\Midesafiofinal\obj\Debug\Midesafio.csproj.CoreCompileInputs.cache
+C:\Users\vanne\Downloads\Midesafiofinal\obj\Debug\Midesafio.exe
+C:\Users\vanne\Downloads\Midesafiofinal\obj\Debug\Midesafio.pdb
+C:\Users\vanne\Downloads\Midesafiofinal\bin\Debug\Midesafio.exe.config
+C:\Users\vanne\Downloads\Midesafiofinal\bin\Debug\Midesafio.xml
+C:\Users\vanne\Downloads\Midesafiofinal\bin\Debug\Midesafio.exe
+C:\Users\vanne\Downloads\Midesafiofinal\bin\Debug\Midesafio.pdb
